@@ -3,3 +3,5 @@
 This project is aimed at applying basic HTML knowledge learned in *The Odin Projet: The Foundations Course*.
 
 This project has 3 recipes, and showcases basic HTML to lay out and display them.
+
+Git and GPG encryption were applied to this project as well.
